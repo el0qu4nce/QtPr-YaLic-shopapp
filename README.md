@@ -1,0 +1,1 @@
+# QtPr-YaLic-shopapp
