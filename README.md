@@ -1,4 +1,5 @@
 # Ya.Licey Merchandise Shop
 
-Merchandise ShopApp on PyQt5
+[Ya.Licey](https://lyceum.yandex.ru/) Merchandise ShopApp on PyQt5
+
 Yandex.Lyceum project
