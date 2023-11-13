@@ -5,3 +5,5 @@
 Yandex.Lyceum project
 
 ![](showcase.png)
+
+## Installation
