@@ -7,3 +7,18 @@ Yandex.Lyceum project
 ![](showcase.png)
 
 ## Installation
+
+
+
+
+
+
+
+
+## Usage
+
+Run application with command:
+
+```bash
+python src/app.py
+```
