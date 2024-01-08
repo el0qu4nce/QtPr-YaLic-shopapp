@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="closing">
+    <file>Ya_Lic icons/github_240_logo.png</file>
+    <file>Ya_Lic icons/lyceum_logo_b64692c23b.svg</file>
+  </qresource>
+</RCC>

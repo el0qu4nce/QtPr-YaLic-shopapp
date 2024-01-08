@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="shop">
+    <file>Ya_Lic icons/backpack.png</file>
+    <file>Ya_Lic icons/cap.png</file>
+    <file>Ya_Lic icons/cotton-polo-shirt.png</file>
+    <file>Ya_Lic icons/hood.png</file>
+    <file>Ya_Lic icons/tshirt.png</file>
+    <file>Ya_Lic icons/winter-hat.png</file>
+  </qresource>
+</RCC>
